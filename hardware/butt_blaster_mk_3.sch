@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="100" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="1" altunitdist="mil" altunit="mil"/>
+<grid distance="100" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="2" altunitdist="mil" altunit="mil"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
@@ -13158,7 +13158,7 @@ Production Part - 8199
 <part name="SUPPLY1" library="A_butts" deviceset="VCC" device=""/>
 <part name="Q1" library="A_butts" deviceset="TRANSISTOR_NPN" device="TO-92-AMMO-EBC" value="2N3904"/>
 <part name="Q2" library="A_butts" deviceset="MOSFET-NCHANNEL" device="2N7000-AMMO" value="2N7000"/>
-<part name="R1" library="A_butts" deviceset="RESISTOR" device="PTH-AXIAL-7.68MM" value="10R"/>
+<part name="R1" library="A_butts" deviceset="RESISTOR" device="PTH-AXIAL-10.16MM" value="10R"/>
 <part name="R2" library="A_butts" deviceset="RESISTOR" device="PTH-AXIAL-6.35MM" value="10k"/>
 <part name="GND1" library="A_butts" deviceset="GND" device=""/>
 <part name="U1" library="A_butts" deviceset="USB-AB" device="COMBO"/>
@@ -13167,12 +13167,12 @@ Production Part - 8199
 <part name="GND2" library="A_butts" deviceset="GND" device=""/>
 <part name="Q3" library="A_butts" deviceset="TRANSISTOR_NPN" device="TO-92-AMMO-EBC" value="2N3904"/>
 <part name="Q4" library="A_butts" deviceset="MOSFET-NCHANNEL" device="2N7000-AMMO" value="2N7000"/>
-<part name="R3" library="A_butts" deviceset="RESISTOR" device="PTH-AXIAL-7.68MM" value="47R"/>
-<part name="R4" library="A_butts" deviceset="RESISTOR" device="PTH-AXIAL-6.35MM" value="10k"/>
+<part name="R3" library="A_butts" deviceset="RESISTOR" device="PTH-AXIAL-10.16MM" value="47R"/>
+<part name="R4" library="A_butts" deviceset="RESISTOR" device="PTH-AXIAL-7.68MM" value="10k"/>
 <part name="SUPPLY3" library="A_butts" deviceset="VCC" device=""/>
 <part name="Q5" library="A_butts" deviceset="MOSFET-NCHANNEL" device="2N7000-AMMO" value="2N7000"/>
 <part name="D2" library="A_butts" deviceset="DIODE-ZENER" device="PTH-7.68MM" value="10V"/>
-<part name="R5" library="A_butts" deviceset="RESISTOR" device="PTH-AXIAL-6.35MM" value="10k"/>
+<part name="R5" library="A_butts" deviceset="RESISTOR" device="PTH-AXIAL-7.68MM" value="10k"/>
 </parts>
 <sheets>
 <sheet>
