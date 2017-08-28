@@ -1,0 +1,15 @@
+/*
+ * my_wireless_config.h - Place to put your network secrets.
+ *
+ * Use this as a template and change the values to your local config.
+ */
+
+#ifndef _MY_WIRELESS_CONFIG_H
+#define _MY_WIRELESS_CONFIG_H
+
+#define MY_WIFI_SSID ("name")
+#define MY_WIFI_PASS ("password")
+
+#endif
+
+// vi: syntax=cpp

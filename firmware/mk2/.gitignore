@@ -1,0 +1,2 @@
+# intentionally excluding network secrets from source control
+my_wireless_config.h
